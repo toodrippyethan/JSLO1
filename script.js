@@ -9,3 +9,5 @@ function validateSyntax() { let input = document.getElementById('petInput').valu
    } else{ result='Invalid Synatx';
     } document.getElementById('result').innerText = result; }
 
+
+    
